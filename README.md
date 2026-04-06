@@ -9,6 +9,7 @@ The goal of this project is to create an easy-to-use tool that helps students be
 ⸻
 
 Features
+
 	•	Machine learning-based stress prediction
 	•	Stress score calculation with risk classification
 	•	Personalized suggestions based on user inputs
@@ -20,6 +21,7 @@ Features
 
 
 Tech Stack
+
 	•	Frontend: React (Vite)
 	•	Backend: Flask (Python)
 	•	Machine Learning: Scikit-learn
