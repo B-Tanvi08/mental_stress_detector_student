@@ -5,6 +5,7 @@ The application includes a simple and interactive dashboard, along with basic su
 ⸻
 
 Features
+
 	•	Machine learning-based stress prediction
 	
 	•	Stress score calculation with risk classification
@@ -16,6 +17,7 @@ Features
 ⸻
 
 Tech Stack
+
 	•	Frontend: React (Vite)
 	•	Backend: Flask (Python)
 	•	Machine Learning: Scikit-learn
@@ -23,23 +25,29 @@ Tech Stack
 
 ⸻
 
-How to Run
-	1.	Clone the repository
-	2.	Create a virtual environment:
-      python3 -m venv venv
-      source venv/bin/activate
-  3.	Install dependencies:
-      pip install -r requirements.txt
-  4.	Train the model:
-      python scripts/train_model.py
-  5.	Run the backend:
-      python app/app.py
-  6.	Start the frontend:
-      npm install
-      npm run dev
-  7.	Open in browser:
-      http://localhost:3000
-    
+How to Run:
+
+- Clone the repository
+
+- Create a virtual environment:
+  python3 -m venv venv
+  source venv/bin/activate
+
+- Install dependencies:
+  pip install -r requirements.txt
+
+- Train the model:
+  python scripts/train_model.py
+
+- Run the backend:
+  python app/app.py
+
+- Start the frontend:
+  npm install
+  npm run dev
+
+- Open in browser:
+  http://localhost:3000
       
   
   
