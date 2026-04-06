@@ -6,6 +6,7 @@ The application includes a simple and interactive dashboard, along with basic su
 
 Features
 	•	Machine learning-based stress prediction
+	
 	•	Stress score calculation with risk classification
 	•	Personalized suggestions based on user inputs
 	•	History tracking to monitor stress over time
