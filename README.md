@@ -30,23 +30,31 @@ How to Run:
 - Clone the repository
 
 - Create a virtual environment:
+  
   python3 -m venv venv
+  
   source venv/bin/activate
 
 - Install dependencies:
+  
   pip install -r requirements.txt
 
 - Train the model:
+  
   python scripts/train_model.py
 
 - Run the backend:
+  
   python app/app.py
 
 - Start the frontend:
+  
   npm install
+  
   npm run dev
 
 - Open in browser:
+  
   http://localhost:3000
       
   
