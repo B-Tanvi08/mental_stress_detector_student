@@ -1,0 +1,44 @@
+[
+  {
+    "userId": "default_user",
+    "userName": "Guest",
+    "date": "2026-04-06T10:03:53.408Z",
+    "academicPressure": 2,
+    "studySatisfaction": 4,
+    "sleepDuration": 5,
+    "dietaryHabits": "Healthy",
+    "financialStress": 2,
+    "familyHistory": "No",
+    "stressScore": 85,
+    "prediction": "Yes",
+    "id": 1775469833408
+  },
+  {
+    "userId": "default_user",
+    "userName": "Guest",
+    "date": "2026-04-06T10:05:46.387Z",
+    "academicPressure": 4,
+    "studySatisfaction": 5,
+    "sleepDuration": 7,
+    "dietaryHabits": "Healthy",
+    "financialStress": 1,
+    "familyHistory": "No",
+    "stressScore": 70,
+    "prediction": "Yes",
+    "id": 1775469946387
+  },
+  {
+    "userId": "default_user",
+    "userName": "Guest",
+    "date": "2026-04-06T10:52:25.583Z",
+    "academicPressure": 1,
+    "studySatisfaction": 5,
+    "sleepDuration": 6,
+    "dietaryHabits": "Healthy",
+    "financialStress": 3,
+    "familyHistory": "No",
+    "stressScore": 45,
+    "prediction": "No",
+    "id": 1775472745583
+  }
+]
